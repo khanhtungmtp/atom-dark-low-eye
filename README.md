@@ -32,6 +32,6 @@ JSON Vision:
 
 C# Vision:
 
-<img src="https://raw.githubusercontent.com/khanhtungmtp/atom-dark-low-eye/main/screenshots/c#.png" title="" alt="c-model.png" align="center">
+<img src="https://raw.githubusercontent.com/khanhtungmtp/atom-dark-low-eye/main/screenshots/c.png" title="" alt="c-model.png" align="center">
 
 Be Happy :)
