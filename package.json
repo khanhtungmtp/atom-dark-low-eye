@@ -1,0 +1,29 @@
+{
+  "name": "atom-dark-low-eye",
+  "displayName": "Atom Dark Low Eye",
+  "description": "This Atom Dark Low Eye theme is based on the Atom One Dark color theme from Mahmoud Ali",
+  "version": "1.0.0",
+  "publisher": "KhanhTungMTP",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "atom",
+    "theme",
+    "dark",
+    "one dark"
+  ],
+  "icon": "icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Atom Dark Low Eye",
+        "uiTheme": "vs-dark",
+        "path": "./themes/KHANHTUNGMTP-color-theme.json"
+      }
+    ]
+  }
+}
