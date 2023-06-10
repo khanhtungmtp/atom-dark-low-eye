@@ -25,5 +25,14 @@
         "path": "./themes/KHANHTUNGMTP-color-theme.json"
       }
     ]
+  },
+  "bugs": {
+    "url": "https://github.com/khanhtungmtp/atom-dark-low-eye/issues",
+    "email": "umlatao97@gmail.com"
+  },
+  "homepage": "https://github.com/khanhtungmtp/atom-dark-low-eye",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/khanhtungmtp/atom-dark-low-eye"
   }
 }
