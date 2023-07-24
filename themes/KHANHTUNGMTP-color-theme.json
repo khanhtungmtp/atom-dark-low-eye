@@ -148,7 +148,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#61AFEF"
+				"foreground": "#5d9fd6"
 			}
 		},
 		{
@@ -249,7 +249,7 @@
 				"variable"
 			],
 			"settings": {
-				"foreground": "#5688AF"
+				"foreground": "#62a362"
 			}
 		},
 		{
@@ -346,7 +346,7 @@
 				"punctuation.definition.identity"
 			],
 			"settings": {
-				"foreground": "#61AFEF"
+				"foreground": "#5d9fd6"
 			}
 		},
 		{
@@ -422,7 +422,7 @@
 				"support.function.any-method"
 			],
 			"settings": {
-				"foreground": "#61AFEF"
+				"foreground": "#5d9fd6"
 			}
 		},
 		{
@@ -431,7 +431,7 @@
 				"entity.name.function"
 			],
 			"settings": {
-				"foreground": "#61AFEF"
+				"foreground": "#5d9fd6"
 			}
 		},
 		{
@@ -450,7 +450,7 @@
 				"entity.name.section"
 			],
 			"settings": {
-				"foreground": "#61AFEF"
+				"foreground": "#5d9fd6"
 			}
 		},
 		{
@@ -477,7 +477,7 @@
 				"entity.other.attribute-name.id"
 			],
 			"settings": {
-				"foreground": "#61AFEF"
+				"foreground": "#5d9fd6"
 			}
 		},
 		{
@@ -514,7 +514,7 @@
 				"meta.definition.variable"
 			],
 			"settings": {
-				"foreground": "#5688AF"
+				"foreground": "#5688AF",
 			}
 		},
 		{
@@ -532,7 +532,7 @@
 				"meta.require"
 			],
 			"settings": {
-				"foreground": "#61AFEF"
+				"foreground": "#5d9fd6"
 			}
 		},
 		{
@@ -653,7 +653,7 @@
 				"markup.heading punctuation.definition.heading"
 			],
 			"settings": {
-				"foreground": "#61AFEF"
+				"foreground": "#5d9fd6"
 			}
 		},
 		{
@@ -756,7 +756,7 @@
 				"source.elixir constant.definition"
 			],
 			"settings": {
-				"foreground": "#61AFEF"
+				"foreground": "#5d9fd6"
 			}
 		},
 		{
@@ -863,7 +863,7 @@
 				"source.gfm link entity"
 			],
 			"settings": {
-				"foreground": "#61AFEF"
+				"foreground": "#5d9fd6"
 			}
 		},
 		{
@@ -1027,7 +1027,7 @@
 				"ng.interpolation.end"
 			],
 			"settings": {
-				"foreground": "#61AFEF"
+				"foreground": "#5d9fd6"
 			}
 		},
 		{
@@ -1046,7 +1046,7 @@
 				"ng.interpolation function.end"
 			],
 			"settings": {
-				"foreground": "#61AFEF"
+				"foreground": "#5d9fd6"
 			}
 		},
 		{
@@ -1787,7 +1787,7 @@
 			"name": "[VSCODE-CUSTOM] CSharp Property",
 			"scope": "entity.name.variable.property.cs",
 			"settings": {
-				"foreground": "#61AFEF"
+				"foreground": "#5d9fd6"
 			}
 		},
 		{
@@ -1987,7 +1987,7 @@
 				"string.other.link.description.markdown"
 			],
 			"settings": {
-				"foreground": "#61AFEF"
+				"foreground": "#5d9fd6"
 			}
 		},
 		{
